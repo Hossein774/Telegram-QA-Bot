@@ -1,0 +1,16 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime database and SQLite sidecars
+bot_data.db
+bot_data.db-journal
+bot_data.db-shm
+bot_data.db-wal
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
