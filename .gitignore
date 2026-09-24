@@ -1,3 +1,4 @@
+.gitignore
 # Local environment and secrets
 .env
 .env.*
